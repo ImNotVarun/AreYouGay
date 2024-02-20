@@ -1,3 +1,3 @@
-It is a Website That check if you are Gay Or Not
+                                                  It is a Website That check if you are Gay Or Not
 
-Website - https://benstokes75.github.io/AreYouGay/
+                                                 Website - https://benstokes75.github.io/AreYouGay/
